@@ -5,7 +5,6 @@ import CommentList from './CommentList';
 export default () => {
     return (
         <div>
-            Im the app component.
             <CommentBox />
             <CommentList />
         </div>
